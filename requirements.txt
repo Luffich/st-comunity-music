@@ -1,0 +1,3 @@
+youtube-dl
+discord.py
+asyncio
