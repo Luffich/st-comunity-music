@@ -4,3 +4,4 @@ websockets
 chardet
 youtube-dl
 asyncio
+ffmpeg
