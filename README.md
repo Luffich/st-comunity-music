@@ -9,4 +9,5 @@
 1. Скачиваем репозиторий
 2. Настраиваем `main.py`, `music_rus.py` ([Discord Token](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot))
 3. Устанавливаем [ffmpeg](https://www.ffmpeg.org/download.html#build-windows) распаковываем в любом месте, заходим в папку bin и ffmpeg.exe, ffplay.exe, ffprobe.exe закидуем в папку с ботом. [Пример](https://prnt.sc/1qhakag)
-4. Открываем cmd через папку, и пишем `python music_rus.py`
+4. Устанавливаем requirements.txt
+5. Открываем cmd через папку, и пишем `python music_rus.py`
