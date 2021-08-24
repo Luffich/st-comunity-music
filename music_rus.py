@@ -500,4 +500,4 @@ async def on_ready():
     print('Logged in as:\n{0.user.name}\n{0.user.id}'.format(bot))
     await bot.change_presence(status=discord.Status.idle,activity=Activity(name="за музыкой.",type=ActivityType.watching))
 
-bot.run('ODU5MDkwMTgyMDA2NjM2NTU0.YNnoFA.n54RJFTMgkGlzuKPLwKkRnXIoxY')
+bot.run('ТОКЕН')
